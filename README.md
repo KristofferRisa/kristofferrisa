@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
-<!-- 
-- 🔭 I’m currently working on [convert.express](https://convert.express) and [hallonabo.no](https://hallonabo.no)
-- 🌱 I’m currently learning vuejs
-- 🤔 I’m looking for help with taking [hallonabo.no](https://hallonabo.no) to the next level! DM me @ twitter
-- 📫 How to reach me: @kristofferrisa @ twitter
+- 🔭 I’m currently working on [Flaggtider.no](https://flaggtider.no), [convert.express](https://convert.express), and [hallonabo.no](https://hallonabo.no).
+- 📚 Now reading [Limitless](https://www.amazon.com/Limitless-Upgrade-Anything-Faster-Exceptional/dp/1401958230) by Jim Kwik.
+- 🤔 Need help with [hallonabo.no](https://hallonabo.no) to take it to the next level! 
+- 📫 How to reach me: @kristofferrisa @ Twitter or send me an email at hei@kristoffer.dev
 
---!>
