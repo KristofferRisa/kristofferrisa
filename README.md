@@ -6,6 +6,6 @@
 
 ## 📫 Contact me
 - Email: [hi@kristoffer.dev](mailto:hi@kristoffer.dev)
-- LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/kristofferrisa)
+- LinkedIn: [linkedin.com/in/kristofferrisa](https://www.linkedin.com/in/kristofferrisa)
 - Twitter: [@kristofferrisa](https://twitter.com/kristofferrisa)
 
