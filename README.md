@@ -7,7 +7,7 @@
   - **Automation:** Utilizing n8n to streamline workflows and processes.
   - **Monitoring:** Implementing OpenTelemetry for robust, scalable system monitoring.
 - 📖 Currently reading: "[The Beginning of Infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)" by David Deutsch. A book so insightful, I recommend reading it multiple times!
-- 🤔 Seeking collaborators for [Flaggtider.no](https://flaggtider.no) and [hallonabo.no](https://hallonabo.no) to help take these projects to the next level!
+- 🤔 Seeking collaborators for [Flaggtider.no](https://flaggtider.no) to help take these projects to the next level!
 - 🗒 Every day student of Bitcoin. 
 
 ## 📫 Contact me
